@@ -1,0 +1,5 @@
+{
+  "integrationFolder": "./src",
+  "projectId": "test-driven-development",
+  "testFiles": "**/*.e2e.js"
+}

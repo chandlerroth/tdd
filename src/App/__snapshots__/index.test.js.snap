@@ -3,14 +3,14 @@
 exports[`App should render 1`] = `
 <div>
   <div
-    class="App"
+    class="sc-bdVaJa khUSez"
   >
-    <header
-      class="App-header"
+    <div
+      class="sc-htpNat crrTe"
     >
       <img
         alt="logo"
-        class="App-logo"
+        class="sc-bwzfXH ivkBJk"
         src="logo.svg"
       />
       <p>
@@ -20,15 +20,15 @@ exports[`App should render 1`] = `
         </code>
          and save to reload.
       </p>
-      <a
-        class="App-link"
+      <div
+        class="sc-bxivhb cYHewc App-link"
         href="https://reactjs.org"
         rel="noopener noreferrer"
         target="_blank"
       >
         Learn React
-      </a>
-    </header>
+      </div>
+    </div>
   </div>
 </div>
 `;

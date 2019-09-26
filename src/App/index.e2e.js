@@ -1,6 +1,5 @@
 describe('App', () => {
-  it('should display edit', () => {
+  it('should boot app', () => {
     cy.visit('http://localhost:3000/')
-    cy.contains(/edit/i)
   })
 })

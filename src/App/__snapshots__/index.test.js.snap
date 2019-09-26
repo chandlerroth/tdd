@@ -8,26 +8,12 @@ exports[`App should render 1`] = `
     <div
       class="sc-htpNat crrTe"
     >
-      <img
-        alt="logo"
-        class="sc-bwzfXH ivkBJk"
-        src="logo.svg"
-      />
-      <p>
-        Edit 
-        <code>
-          src/App.js
-        </code>
-         and save to reload.
-      </p>
-      <div
-        class="sc-bxivhb cYHewc App-link"
-        href="https://reactjs.org"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
-        Learn React
-      </div>
+      <label>
+        Password
+        <input
+          type="password"
+        />
+      </label>
     </div>
   </div>
 </div>
